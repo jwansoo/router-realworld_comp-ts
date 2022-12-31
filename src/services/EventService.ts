@@ -1,6 +1,6 @@
 import axios from 'axios'
 const apiClient = axios.create({
-  baseURL: 'https://my-json-server.typicode.com/jwansoo/router_realworl_ts',
+  baseURL: 'https://my-json-server.typicode.com/jwansoo/router_realworld_comp_ts',
   withCredentials: false,
   headers: {
     Accept: 'application/json',
